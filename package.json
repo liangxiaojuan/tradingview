@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/liangxiaojuan/tradingview.git"
+    "url": "https://github.com/liangxiaojuan/tradingview.git#master"
   },
   "bugs": {
     "url": "https://github.com/liangxiaojuan/tradingview/issues"
